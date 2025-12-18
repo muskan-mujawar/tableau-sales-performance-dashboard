@@ -24,3 +24,4 @@ This project analyzes multi-year sales data to uncover revenue trends, customer 
 🔗https://public.tableau.com/views/Book1_17660586928270/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Screenshots
+![Sales Performance Dashboard]()
